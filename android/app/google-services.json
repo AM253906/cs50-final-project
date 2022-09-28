@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102049305394",
+    "project_id": "first-firebase-app-dee34",
+    "storage_bucket": "first-firebase-app-dee34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102049305394:android:8aed193570c7a24a6b3d2b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102049305394-bsal23321cr54th5791crp0n99m4mphv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl6v08uYSYbnksuYyFxBaQWi0XPFU1Y_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102049305394-bsal23321cr54th5791crp0n99m4mphv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
