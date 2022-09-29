@@ -2,7 +2,7 @@
 
 A community habit tracking application using Flutter and Firebase.
 
-#### Video Demo: TODO <URL HERE>
+#### Video Demo: <https://youtu.be/7OiqpHgW9Ms>
 
 #### Description:
 
